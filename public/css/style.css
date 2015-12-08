@@ -1,0 +1,44 @@
+html {
+  overflow-x: hidden;
+}
+
+body {
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px
+}
+
+.page-header{
+  height: 20%;
+}
+
+.custom{
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important;
+}
+
+.col-lg-4 .nav .nav-pills .text-bottom{
+  vertical-align: bottom;
+}
+
+#header{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#content{
+    width: 100%;
+    height: 80%;
+    background-image: url("../img/bg.jpeg");
+    background-color: #cccccc;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
